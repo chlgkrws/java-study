@@ -30,6 +30,5 @@ public class MappingFileExtension {
 			.distinct()										//중복 제거
 			.forEach(System.out::println);					//출력
 		
-		
 	}
 }

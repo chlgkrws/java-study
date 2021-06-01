@@ -34,7 +34,6 @@ public class StaticMethodOfComparator {
 				.forEach(s -> System.out.println(s.name));
 	}
 }
-	
 class Student implements Comparable<Student>{
 	
 	String name;
