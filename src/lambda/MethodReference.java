@@ -13,7 +13,7 @@ public class MethodReference {
 		
 		
 		//equals 람다식, 메서드 참조
-//		/String str = new String("나는 참조변수");
+		//String str = new String("나는 참조변수");
 	
 		//Function<String, Boolean> equals = s -> str.equals(s);	//람다식
 		
