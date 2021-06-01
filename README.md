@@ -32,7 +32,7 @@
   - 쓰레드의 실행제어 및 동기화
 
 #### 자바 8
-  - 람다식
+  - [람다식](https://github.com/chlgkrws/java-study/tree/main/src/lambda)
   - 스트림
   - 날짜/시간
   - Optional
