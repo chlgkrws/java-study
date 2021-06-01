@@ -64,7 +64,6 @@ public class LambdaWithCollection {
 		map.replaceAll((k, v) -> k.equals("2") ? v : v * 10);
 		System.out.println("map replcateAll : "+map);
 		
-		
 		map.putIfAbsent("7", 0);
 		System.out.println(map);
 		
