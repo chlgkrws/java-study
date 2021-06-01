@@ -47,7 +47,6 @@ public class shapeOfLambda {
 		for(int i = 0; i < newArr.length; i++) {
 			newArr[i] = op.applyAsInt(arr[i]);
 		}
-		
 		return newArr;
 	}
 	
