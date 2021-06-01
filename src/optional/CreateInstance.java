@@ -43,7 +43,6 @@ public class CreateInstance {
 		});
 		
 		
-		
 		if(str != null) {
 			System.out.println(str);
 		}
