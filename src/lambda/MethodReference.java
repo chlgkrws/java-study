@@ -34,7 +34,6 @@ public class MethodReference {
 				
 		BiFunction<String, Integer, Integer> parseInt2 = Integer::parseInt;		//메서드 참조
 		
-		
 		//배열 생성
 		Function<Integer, int[]> arr = x -> new int[x];		//람다식
 		
