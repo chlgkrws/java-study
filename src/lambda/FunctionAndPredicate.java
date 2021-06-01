@@ -33,6 +33,7 @@ public class FunctionAndPredicate {
 		Predicate<String> equal = Predicate.isEqual("테스트 문자열");
 		System.out.println(equal.test("테스트 문자열"));
 		
+		
 		System.out.println(Predicate.isEqual("테스트 문자열").test("테스트 문자열"));
 	}
 }	
