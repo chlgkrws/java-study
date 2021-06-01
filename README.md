@@ -35,7 +35,7 @@
   - [람다식](https://github.com/chlgkrws/java-study/tree/main/src/lambda)
   - 스트림
   - 날짜/시간
-  - Optional
+  - [Optional](https://github.com/chlgkrws/java-study/tree/main/src/optional)
 
 
 
