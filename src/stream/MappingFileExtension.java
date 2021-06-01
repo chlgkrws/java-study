@@ -29,6 +29,5 @@ public class MappingFileExtension {
 			.map(String::toUpperCase)						//대문자로 변환
 			.distinct()										//중복 제거
 			.forEach(System.out::println);					//출력
-		
 	}
 }
