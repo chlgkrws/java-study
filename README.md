@@ -33,7 +33,7 @@
 
 #### 자바 8
   - [람다식](https://github.com/chlgkrws/java-study/tree/main/src/lambda)
-  - 스트림
+  - [스트림](https://github.com/chlgkrws/java-study/tree/main/src/stream)
   - 날짜/시간
   - [Optional](https://github.com/chlgkrws/java-study/tree/main/src/optional)
 
