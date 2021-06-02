@@ -117,7 +117,7 @@ public class TerminalOperations2 {
 										.collect(Collectors.toMap(
 												obj -> obj.getCal(), 
 												obj -> obj.getName(),
-												(oldV, newV) -> newV)		//key 값이 곂칠 때 새로운 값을 넣어주기 (예외 처리)
+												(oldV, newV) -> newV)		//key 값이 겹칠 때 새로운 값을 넣어주기 (예외 처리)
 												);
 		System.out.println(map);
 		
